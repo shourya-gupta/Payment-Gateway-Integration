@@ -13,7 +13,7 @@ A simple website where payment gateway is integrated.
 
 ## Tech Stack
 
-**Front-end:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
+**Languages Used:** HTML, CSS, BOOTSTRAP, JAVASCRIPT
 
 **Payement:** RazorPay
 
